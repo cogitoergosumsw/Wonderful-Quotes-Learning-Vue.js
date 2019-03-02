@@ -1,5 +1,5 @@
-# vue-cli
-
+# Wonderful Quotes
+A Quotes Management System - A Vue.js project to learn Vue.js
 > A Vue.js project
 
 ## Build Setup
