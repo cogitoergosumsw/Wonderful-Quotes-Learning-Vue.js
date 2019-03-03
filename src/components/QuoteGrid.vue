@@ -5,8 +5,8 @@
 </template>
 
 <script>
+import Quote from "./Quote.vue";
 export default {
-  import Quote from './Quote.vue';
   props: ["quotes"],
   components: {
     appQuote: Quote
